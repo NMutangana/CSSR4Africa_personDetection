@@ -1,0 +1,6 @@
+Media/rgb/person_image0.png
+Media/rgb/person_image1.png
+Media/rgb/person_image2.png
+Media/rgb/person_image3.png
+Media/rgb/person_image4.png
+camera

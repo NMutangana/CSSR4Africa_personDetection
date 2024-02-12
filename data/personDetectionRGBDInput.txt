@@ -1,0 +1,6 @@
+Media/depth/depth_image_81.png
+Media/depth/depth_image_84.png
+Media/depth/depth_image_89.png
+Media/depth/depth_image_92.png
+Media/depth/depth_image_1.pgm
+camera

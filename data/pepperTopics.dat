@@ -1,0 +1,3 @@
+FrontCamera         /naoqi_driver/camera/front/image_raw
+BottomCamera        /naoqi_driver/camera/bottom/image_raw
+DepthCamera         /naoqi_driver/camera/depth/image_raw
